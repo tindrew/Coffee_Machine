@@ -1,3 +1,5 @@
+import coffee_machine
+
 MENU = {
     "espresso": {
         "ingredients": {
@@ -23,6 +25,9 @@ MENU = {
         "cost": 3.0,
     }
 }
+
+
+
 
 resources = {
     "water": 300,
